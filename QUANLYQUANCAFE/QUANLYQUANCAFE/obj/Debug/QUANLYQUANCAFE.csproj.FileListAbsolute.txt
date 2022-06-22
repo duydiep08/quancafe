@@ -1,0 +1,13 @@
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\bin\Debug\QUANLYQUANCAFE.exe.config
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\bin\Debug\QUANLYQUANCAFE.exe
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\bin\Debug\QUANLYQUANCAFE.pdb
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.csproj.AssemblyReference.cache
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.fLogin.resources
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.Properties.Resources.resources
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.csproj.GenerateResource.cache
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.exe
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.pdb
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.fTableManager.resources
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.fAccountProfile.resources
+C:\Users\Mr.Diep\OneDrive\Máy tính\QUANLYQUANCAFE\QUANLYQUANCAFE\obj\Debug\QUANLYQUANCAFE.fAdmin.resources
